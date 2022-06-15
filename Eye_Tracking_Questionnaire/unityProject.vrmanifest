@@ -5,7 +5,7 @@
       "app_key": "application.generated.unity.eye_tracking_questionnaire.exe",
       "launch_type": "url",
       "url": "steam://launch/",
-      "action_manifest_path": "C:\\Users\\RikuOtono\\Works\\Project\\Eye_Tracking_Questionnaire\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "action_manifest_path": "C:\\Users\\RikuOtono\\Works\\unity_eye_tracking\\unity-vive-eye-tracking-questionnaire\\Eye_Tracking_Questionnaire\\Assets\\StreamingAssets\\SteamVR\\actions.json",
       "strings": {
         "en_us": {
           "name": "Eye_Tracking_Questionnaire [Testing]"
